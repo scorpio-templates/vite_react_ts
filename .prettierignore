@@ -1,0 +1,21 @@
+.cache
+.husky
+dist
+
+# Ignore all HTML files:
+*.html
+*.yml
+*.yaml
+
+# Ignore test files
+__tests__
+
+# Ignore config files
+*.js
+*.json
+*.md
+*.config.ts
+config
+
+# Ignore global types file
+global.d.ts
